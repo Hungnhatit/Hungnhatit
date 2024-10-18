@@ -6,7 +6,7 @@
 - 🔭 I'm currently a 4th-year student at University of Technology and Education - University of Danang, majoring in Software Engineer
 - 💬 Ask me about **ReactJS, Next.js, SQL**
 
-- 📫 How to reach me **nhatpro204@gmail.com**
+- 📫 How to reach me: **nhatpro204@gmail.com**
 
 <h1>🔥 Social</h1>
 
