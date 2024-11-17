@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently a 4th-year student at University of Technology and Education - University of Danang
 - 👨‍💻 I major in **Software Engineer**
-- 💬 Ask me about **Next.js, Laravel, NodeJS, SQL,... and so more**
+- 💬 Ask me about **Next.js, Laravel, Express.js, SQL,... and so more**
 
 - 📫 How to reach me: **nhatpro204@gmail.com**
 
