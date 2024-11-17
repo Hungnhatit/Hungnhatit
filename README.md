@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hungnhatit</h1>
 
-<h3 align="center">A passionate Frontend developer from Da Nang, Viet Nam</h3>
+<h3 align="center">A passionate Backend developer from Da Nang, Viet Nam</h3>
 
 - 🔭 I'm currently a 4th-year student at University of Technology and Education - University of Danang
 - 👨‍💻 I major in **Software Engineer**
-- 💬 Ask me about **Next.js, NodeJS, Laravel, SQL**
+- 💬 Ask me about **Next.js, Laravel, NodeJS, SQL,... and so more**
 
 - 📫 How to reach me: **nhatpro204@gmail.com**
 
